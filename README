@@ -1,5 +1,5 @@
 -----------------
-Monero DNS Seeder
+Lozzax DNS Seeder
 -----------------
 
 Copyright (c) 2014, The Monero Project
@@ -10,30 +10,31 @@ Development Resources
 
 Web: monero.cc
 Mail: dev@monero.cc
-Github: https://github.com/monero-project/xmr-seeder
+Github: https://github.com/lozzax-project/lozz-seeder
 IRC: #monero-dev on Freenode
 
 ------------------
 About this Project
 ------------------
 
-This is an extremely simple DNS seeder that ensures the Monero DNS seed A records are
+This is an extremely simple DNS seeder that ensures the Lozzax DNS seed A records are
 fully populated. It's written in php-cli, and it's a little hacky in parts. It works
 with Gandi's API only, which means there is no requirement for running your own BIND
 server. Feel free to port this to python if you don't like semi-hacky php-cli code.
 
 Monero DNS seeds are live at:
 
-seeds.moneroseeds.ch
-seeds.moneroseeds.li
-seeds.moneroseeds.ae.org
-seeds.moneroseeds.se
+seeds.lozzaxseed.xyz
+seeds.lozzaxseed2.xyz
+seeds.lozzaxseed3.xyz
 
 -------
 License
 -------
 
 Copyright (c) 2014, The Monero Project
+
+Copyright (c) 2022, The Lozzax Project
 
 All rights reserved.
 
